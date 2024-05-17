@@ -8,7 +8,7 @@ Here you can see some of the projects i am working on! ways to contact me, and s
 
 - [Snou](https://github.com/snou88)
 - [WALID](https://github.com/waliid17)
-- [Chaouki]()
+- [Chaouki](https://github.com/Chaouki01)
 
 ### 📫 You can contact me by:
 
