@@ -7,7 +7,7 @@ Here you can see some of the projects i am working on! ways to contact me, and s
 ### Link to my Coding budies Profile pages on github:
 
 - [Snou](https://github.com/snou88)
-- [WALID]()
+- [WALID](waliid17)
 - [Chaouki]()
 
 ### 📫 You can contact me by:
