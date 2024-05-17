@@ -4,10 +4,10 @@ I am **Abdellah** a coder from algeria and this is my github page
 
 Here you can see some of the projects i am working on! ways to contact me, and some other cool coders i work with.
 
-### Link to my Coding budies Profile pages on github:
+### Link to my Coding buddies Profile pages on github:
 
 - [Snou](https://github.com/snou88)
-- [WALID](waliid17)
+- [WALID](https://github.com/waliid17)
 - [Chaouki]()
 
 ### 📫 You can contact me by:
