@@ -4,6 +4,11 @@ I am **Abdellah** a coder from algeria and this is my github page
 
 Here you can see some of the projects i am working on! ways to contact me, and some other cool coders i work with.
 
+### Current Projects:
+
+- E-commerce Website for a printing Company
+- Learning LFS
+
 ### Link to my Coding buddies Profile pages on github:
 
 - [Snou](https://github.com/snou88)
