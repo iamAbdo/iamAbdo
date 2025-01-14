@@ -6,8 +6,8 @@ Here you can see some of the projects i am working on! ways to contact me, and s
 
 ### Current Projects:
 
-- E-commerce Website for a printing Company
-- Learning LFS
+- Building Portfolio
+- Learning Java to make simple windows desktop apps
 
 ### Link to my Coding buddies Profile pages on github:
 
