@@ -22,7 +22,7 @@ Here you can see some of the projects i am working on! ways to contact me, and s
 
 ### My Top Used Langs ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAbdo)](https://github.com/iamAbdo?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAbdo&layout=compact)](https://github.com/iamAbdo?tab=repositories)
 
 <!--
 **iamAbdo/iamAbdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
