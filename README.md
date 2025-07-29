@@ -7,8 +7,7 @@ Here you can see some of the projects i am working on! ways to contact me, and s
 ### Current Projects:
 
 - Building Portfolio
-- Learning Java to make simple windows desktop apps
-
+- Working on some website projects
 ### Link to my Coding buddies Profile pages on github:
 
 - [Snou](https://github.com/snou88)
